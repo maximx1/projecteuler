@@ -21,3 +21,10 @@ Project Euler in scala
 	real	0m1.079s
 	user	0m1.283s
 	sys	0m0.043s
+
+#### 4
+	906609
+
+	real	0m0.633s
+	user	0m0.977s
+	sys	0m0.027s
