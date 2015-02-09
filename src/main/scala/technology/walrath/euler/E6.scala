@@ -1,4 +1,4 @@
-import scala.math._
+package technology.walrath.euler
 
 object E6 {
 	def main(args: Array[String]) {

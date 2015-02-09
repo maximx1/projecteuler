@@ -1,3 +1,5 @@
+package technology.walrath.euler
+
 object E2 {
 	def main(args:Array[String]) {
 		lazy val f: Stream[Int] = 0 #:: f.scanLeft(1)(_ + _)
