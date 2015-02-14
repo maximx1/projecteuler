@@ -9,7 +9,7 @@ object E11 {
   def main(args: Array[String]): Unit = {
     val r = n.split(' ').map(_.toInt)
     val ndMax = r.sliding(20,20).flatMap(_.sliding(4).map(_.product)).max
-    for(a <- 1 to 16; b <- 22 to 37; c <- 43 to)
+//    for(a <- 1 to 16; b <- 22 to 37; c <- 43 to)
     println(ndMax)
   }
 }
